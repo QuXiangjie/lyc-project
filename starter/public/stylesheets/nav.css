@@ -1,0 +1,26 @@
+.bg-darkblue {
+  background-color: #0d47a1;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+}
+
+.nav-link:hover {
+  background-color: #1976d2;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler-icon {
+  background-color: #fff;
+}
